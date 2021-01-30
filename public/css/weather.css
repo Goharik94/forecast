@@ -1,0 +1,23 @@
+#logo{
+	width: 40px;
+}
+.home_content{
+	text-align: center;
+	margin: 3em;
+}
+.content_section{
+	display: flex;
+}
+#wed_pegination{
+	text-align: center;
+}
+#wed_pegination svg{
+	width: 1em;
+}
+.flex-1, .text-gray-700{
+	display: none;
+}
+.searches{
+	text-align: center;
+	margin: 3em;
+}
